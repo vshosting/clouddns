@@ -7,10 +7,7 @@ In order to use CloudDNS API, you need an active user the customer administratio
 You can get access tokens for communication with CloudDNS API by logging in against the customer administration API.
 
 Complete documentation for CloudDNS API: https://admin.vshosting.cloud/clouddns/swagger/ \
-Endpoints for CloudDNS API are available at https://admin.vshosting.cloud/clouddns/api/public/
-
-Complete documentation for customer administration API: https://admin.vshosting.cloud/api/public/swagger/ \
-Endpoints for customer administration API are available at https://admin.vshosting.cloud/api/public/ 
+Complete documentation for customer administration API: https://admin.vshosting.cloud/api/public/swagger/ 
 
 
 ## API usage examples
