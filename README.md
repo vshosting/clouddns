@@ -589,7 +589,7 @@ There is no need to call `PUT /clouddns/domain/{id}/publish` after a batch updat
 #### Example call for batch update of DNS records
 
 ```
-POST /clouddns/domain/HO0s88QGT869dEaMDEAFoQ/records HTTP/2
+PUT /clouddns/domain/HO0s88QGT869dEaMDEAFoQ/records HTTP/2
 Host: admin.vshosting.cloud
 Content-Type: application/json
 Authorization: Bearer oenCToMxTrSEgmHShDJLew
