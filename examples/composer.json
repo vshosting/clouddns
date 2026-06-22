@@ -1,6 +1,6 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^6.4",
+        "guzzlehttp/guzzle": "^7.12",
         "hassankhan/config": "^2.1"
     }
 }
